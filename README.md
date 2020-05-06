@@ -44,13 +44,13 @@ Run your test suite again, and you should be passing the first one.
 
 This method takes in an argument of an array and should return the array, sorted in ascending order. Use the `#sort` method on the array to get this test passing.
 
-### `#using_reverse`
+
+
+This method takes in an argument of an array and should return the first element of that array. Try to get this t### `#using_reverse`
 
 This method takes in an argument of an array and should return the array with the contents in reverse order. Use the `#reverse` method on the array to get this test passing.
 
-### `#using_first`
-
-This method takes in an argument of an array and should return the first element of that array. Try to get this test passing without using the `[]` method. Use the `#first` method instead.
+### `#using_first`est passing without using the `[]` method. Use the `#first` method instead.
 
 ### `#using_last`
 
