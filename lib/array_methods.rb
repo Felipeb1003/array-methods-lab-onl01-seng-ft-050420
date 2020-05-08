@@ -18,11 +18,11 @@ def using_first(array)
 end
 
 def using_last(array)
-  phrase = ["wow","I","arrays!" ]
-  phrase.last
+  new_array = array.last
+  new_array
 end
 
 def using_size(array)
-  phrase = ["wow","I","arrays!", "sea", "lost", "boy" ]
-  phrase.size
+  new_array = array.size
+  new_array
 end
