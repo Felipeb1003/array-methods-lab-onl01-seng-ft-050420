@@ -8,8 +8,8 @@ def using_sort(array)
 end
 
 def using_reverse(array)
-  phrase = ["wow","I","arrays!" ]
-  phrase.reverse
+  new_array = array.reverse
+  new_array
 end
 
 def using_first(array)
