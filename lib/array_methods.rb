@@ -3,26 +3,26 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  words = ["wow","island", "I"]
-  words.sort
+  new_array = array.sort
+  new_array
 end
 
 def using_reverse(array)
-  phrase = ["wow","I","arrays!" ]
-  phrase.reverse
+  new_array = array.reverse
+  new_array
 end
 
 def using_first(array)
-  phrase = ["wow","I","arrays!" ]
-  phrase.first
+  new_array = array.first
+  new_array
 end
 
 def using_last(array)
-  phrase = ["wow","I","arrays!" ]
-  phrase.last
+  new_array = array.last
+  new_array
 end
 
 def using_size(array)
-  phrase = ["wow","I","arrays!", "sea", "lost", "boy" ]
-  phrase.size
+  new_array = array.size
+  new_array
 end
